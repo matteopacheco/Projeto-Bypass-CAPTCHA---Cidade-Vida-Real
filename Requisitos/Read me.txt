@@ -1,0 +1,7 @@
+import cv2
+import numpy as np
+import tensorflow as tf
+import keras
+import matplotlib.pyplot as plt
+
+Caso falte alguma biblioteca, ocorrerá um erro semelhante a "ImportError: No module named". Pegue o nome do modulo que está faltando e instale através do comando PIP install.
