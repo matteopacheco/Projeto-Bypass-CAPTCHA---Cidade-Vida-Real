@@ -1,0 +1,3 @@
+As imagens do CAPTCHA foram normalizadas através de um script LUA, que está incluso nesse projeto, depois foram segmentadas e separadas por seu respectivo digito em Imagens Captcha.
+
+Foram separadas imagens para treinamento (estritamente necessário) e imagens para validação (não necessário), as de validação incluem imagens antes de o CAPTCHA ser normalizado. Os digitos do CAPTCHA ficam consistentes depois da normalização, não havendo a necessidade de validação, ainda está incluso caso queiram utilizar.
