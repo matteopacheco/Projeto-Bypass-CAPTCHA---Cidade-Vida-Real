@@ -1,0 +1,3 @@
+O soluçãoCaptcha.py foi testado com o MOD Modo Janela para SA-MP, portanto é altamente recomendável a utilização.  
+
+O script está integrado com o .lua, portanto funcionará somente caso as dependências do Moonloader estejam devidamente instaladas.
